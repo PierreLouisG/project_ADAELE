@@ -106,4 +106,5 @@ The repository of the website can be found [here](https://github.com/marvelous-c
 	- Analysis of the data:
 		- Behavior (good, evil) analysis and plots
 		- Plots for famousness analysis  
+
 (All of the team will work on the presentation and the poster)
